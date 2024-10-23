@@ -4,3 +4,8 @@ langchain_community
 bs4
 pypdf
 python-dotenv
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+
