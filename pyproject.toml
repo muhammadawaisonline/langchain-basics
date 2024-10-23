@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "langchain basics"
+version = "0.0.1"
+description = "LangChain Basics Concepts"
+authors = ["Muhammad Awais"]
+license = "MA-verified"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
