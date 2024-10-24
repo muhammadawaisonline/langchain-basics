@@ -8,4 +8,4 @@ arxiv
 pymupdf
 wikipedia
 langchain-text-splitters
-
+lxml
